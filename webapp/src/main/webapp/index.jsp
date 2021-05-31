@@ -11,7 +11,7 @@
 <h2> Pipeline concepted by Aziz Tangour & Ahmed Amine Fatnassi __ INDP2 </h3>
 
 
-
+<h2> Supervised by: Mr. Rached Hamza </h2>
 
 
 <h3> Thank you for your @ttention </h4>
